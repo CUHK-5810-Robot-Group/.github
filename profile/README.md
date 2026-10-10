@@ -1,6 +1,7 @@
 # CUHK-5810-Robot-Group
 
 欢迎来到 CUHK-5810-Robot-Group！我们专注于机器人相关的研究与开发。
+![pitcture](https://github.com/CUHK-5810-Robot-Group/.github/blob/main/%E6%A0%A1%E5%BE%BD.webp)
 
 ## 🔧 主要项目
 
