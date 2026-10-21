@@ -6,7 +6,8 @@
 
 ## 🔧 主要项目
 
-- **[ATEC_TaskE_Standalone](https://github.com/CUHK-5810-Robot-Group/ATEC_TaskE_Standalone)** 
+- **[ATEC_TaskE_Standalone](https://github.com/CUHK-5810-Robot-Group/ATEC_TaskE_Standalone)**
+- **[ATEC_TaskB_Student](https://github.com/CUHK-5810-Robot-Group/ATEC_TaskB_Student)**
 - 其他项目持续更新中...
 
 ## 🛠️ 技术栈
